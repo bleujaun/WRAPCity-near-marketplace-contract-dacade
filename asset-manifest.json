@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WRAPCity-near-marketplace-contract-dacade/static/css/main.b6893be7.chunk.css",
+    "main.js": "/WRAPCity-near-marketplace-contract-dacade/static/js/main.1cfbfda6.chunk.js",
+    "main.js.map": "/WRAPCity-near-marketplace-contract-dacade/static/js/main.1cfbfda6.chunk.js.map",
+    "runtime-main.js": "/WRAPCity-near-marketplace-contract-dacade/static/js/runtime-main.6f1e5a96.js",
+    "runtime-main.js.map": "/WRAPCity-near-marketplace-contract-dacade/static/js/runtime-main.6f1e5a96.js.map",
+    "static/css/2.ffedb175.chunk.css": "/WRAPCity-near-marketplace-contract-dacade/static/css/2.ffedb175.chunk.css",
+    "static/js/2.3bbc56c9.chunk.js": "/WRAPCity-near-marketplace-contract-dacade/static/js/2.3bbc56c9.chunk.js",
+    "static/js/2.3bbc56c9.chunk.js.map": "/WRAPCity-near-marketplace-contract-dacade/static/js/2.3bbc56c9.chunk.js.map",
+    "static/js/3.31ce5ae4.chunk.js": "/WRAPCity-near-marketplace-contract-dacade/static/js/3.31ce5ae4.chunk.js",
+    "static/js/3.31ce5ae4.chunk.js.map": "/WRAPCity-near-marketplace-contract-dacade/static/js/3.31ce5ae4.chunk.js.map",
+    "index.html": "/WRAPCity-near-marketplace-contract-dacade/index.html",
+    "static/css/2.ffedb175.chunk.css.map": "/WRAPCity-near-marketplace-contract-dacade/static/css/2.ffedb175.chunk.css.map",
+    "static/css/main.b6893be7.chunk.css.map": "/WRAPCity-near-marketplace-contract-dacade/static/css/main.b6893be7.chunk.css.map",
+    "static/js/2.3bbc56c9.chunk.js.LICENSE.txt": "/WRAPCity-near-marketplace-contract-dacade/static/js/2.3bbc56c9.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/WRAPCity-near-marketplace-contract-dacade/static/media/bootstrap-icons.b2e5aab6.woff2",
+    "static/media/sandwich.37862b07.jpg": "/WRAPCity-near-marketplace-contract-dacade/static/media/sandwich.37862b07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f1e5a96.js",
+    "static/css/2.ffedb175.chunk.css",
+    "static/js/2.3bbc56c9.chunk.js",
+    "static/css/main.b6893be7.chunk.css",
+    "static/js/main.1cfbfda6.chunk.js"
+  ]
+}
